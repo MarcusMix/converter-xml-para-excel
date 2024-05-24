@@ -51,12 +51,11 @@ Converter arquivos XML para Excel de forma automatizada.
 
 ### Entrada (Arquivos XML)
 
-Coloque seus arquivos XML na pasta especificada, conforme o exemplo abaixo:
-
+Coloque seus arquivos XML na pasta especificada no código.
 
 ### Saída (Arquivo XLSX)
 
-O arquivo XLSX gerado estará na pasta de saída, conforme o exemplo abaixo:
+O arquivo XLSX gerado estará na pasta de saída no código.
 
 
 ## Licença
